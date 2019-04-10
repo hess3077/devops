@@ -5,7 +5,6 @@ current/
 web/uploads
 web/swagger
 web/docs/
-web/
 swagger.json
 swagger-privaye.json
 .env
